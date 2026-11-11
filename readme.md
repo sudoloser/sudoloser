@@ -1,12 +1,10 @@
 <div align="center">
   
-  ### Hi, I'm **sudoloser** 👋
+  ### Hi, I'm **sudoloser**
   
-  **Kotlin developer** • Game enthusiast • Building things that feel good
+  **Python Developer** • Game enthusiast • Building things that might just work!
   
   <img src="https://komarev.com/ghpvc/?username=sudoloser&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  <br><br>
   
   <a href="https://twitter.com/sudoloser" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sudoloser?style=for-the-badge&logo=x&logoColor=white&color=1DA1F2" alt="Follow on X" />
@@ -20,11 +18,11 @@
 
 ### ✨ About Me
 
-- 🔭 Currently working on **nothing specific**
-- 🌱 Learning **C#** and **GDScript (Godot)**
-- 👯 Looking to collaborate on **Android apps** & **backend servers**
+- 🔭 Currently working on **[Cozy Progression](https://github.com/sudoloser/cozy-progression)**
+- 🌱 Learning **C#** and **Python**
+- 👯 Looking to collaborate on: **Discord Bots** (Pycord) and **Backend Servers** (Python)
 - 📫 Reach me at **explysm@proton.me**
-- ⚡ Fun fact: I love game development
+- ⚡ Fun fact: I love game development!
 
 <br>
 
